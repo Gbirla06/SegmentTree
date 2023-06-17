@@ -1,4 +1,5 @@
 class SGTree{
+    public:
     vector<int>seg;
     SGTree(int n)
     {
